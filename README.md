@@ -6,7 +6,7 @@ Recriando Antiga Home Page Verce
 + HMTL5
   <p align="left">
     <a href="#">
-      <img src="https://skillicons.dev/icons?i=html,html,js,)" />  
+      <img src="https://skillicons.dev/icons?i=html,html,css,js,sass)" />  
     </a>
   </p>
 + CSS
