@@ -115,7 +115,7 @@ main h1 span {
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  animation: colorCycle 10s ease-in-out infinite;
+  animation: colorCycle 5s ease-in-out infinite;
 }
 main h1 span:nth-child(1) {
   background-image: linear-gradient(90deg, #007cf0, #00dfd8);
